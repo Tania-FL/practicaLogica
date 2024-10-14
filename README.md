@@ -1,9 +1,7 @@
 # practicaLogica
 JS-05 - Práctica de lógica 
+
 //User profile
-
-
-
 function perfilDeUsuario() {
     const nombre = prompt("Ingresa tu nombre de usuario:");
     const edad = prompt("Ingresa tu edad:");
